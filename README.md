@@ -17,3 +17,4 @@ Un blog increible para el [curso de Git y GitHub] de [Platzi]
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado por el ejemplo. Si llegas hasta acá NO TE LOS TOMES EN SERIO y mejor ve **[a ver el curso].**
 [a ver el curso]:(https://platzi.com/cursos/git-github/ "a ver el curso"
 
+ewrjhghjfdsjs
